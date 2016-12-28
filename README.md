@@ -30,7 +30,6 @@ Deploy the challenge application
 
 6. Replace the following code to translate the text `Hello IBM Bluemix user!` into Spanish. Change the target language from `fr` to `es`. `fr` stands for French, `es` stands for Spanish, just a couple of the six languages IBM Watson’s Language Translation service translates content.
 
-
   ```
   ...
   language_translator.translate({
