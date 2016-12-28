@@ -1,13 +1,10 @@
 # Code Challenge: Language Translator
+In this challenge you will work with a Node.js translation application hosted on the [IBM Bluemix DevOps Services] (https://hub.jazz.net) cloud and   using the [Language Translator](https://www.ibm.com/watson/developercloud/language-translator.html) service in the [IBM Bluemix cloud](https://bluemix.net/). The app uses the [Bluemix Translator Service](https://language-translator-demo.mybluemix.net/). 
 
-This challenge shows you how to deploy an application on the IBM Bluemix cloud, https://bluemix.net/, use IBM Bluemix DevOps Services, https://hub.jazz.net, and use the Language Translator service that is hosted at this URL: https://www.ibm.com/watson/developercloud/language-translator.html and that uses Node.js.   
-
-You can try a demo of the service at this URL: https://language-translator-demo.mybluemix.net/ You can also study up on the **API Reference** https://www.ibm.com/watson/developercloud/language-translator/api/v2/ and read up on the  **the Documentation.** https://www.ibm.com/watson/developercloud/doc/language-translator/ 
+You can study up on the [**Language Translator API Reference**] (http://www.ibm.com/watson/developercloud/language-translator/api/v2/) and read [**the Translator Documentation.**](http://www.ibm.com/watson/developercloud/doc/language-translator/) 
 
 ## Running the app on Bluemix
-
 1. [![Crete a Free Account](./img/createaccount.png)](./img/createaccount.png)
-
 Creating a Bluemix is easy. For a detailed desription, check this YouTube video: https://www.youtube.com/watch?v=kUPwdfL8_oU&t=23s 
 Deploy the challenge application
 
